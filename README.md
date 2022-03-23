@@ -2,6 +2,11 @@
 
 ## Installation
 
+### Dependencies
+
+1. Python3
+2. pydiff - https://github.com/yebrahim/difflibparser.git
+
 Run git clone with recursive as this relies on pydiff at https://github.com/yebrahim/difflibparser.git
 (pydiff also requires recursive git clone)
 
